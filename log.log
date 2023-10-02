@@ -1,0 +1,919 @@
+2023-09-27 15:47:56,215 INFO started collecting ad data
+2023-09-27 15:47:56,236 INFO started collecting ads by brand Honda
+2023-09-27 15:47:56,239 INFO started collecting ads by model 67
+2023-09-27 15:48:00,579 INFO model 67 processing completed successfully
+2023-09-27 15:48:00,579 INFO started collecting ads by model @
+2023-09-27 15:48:02,523 INFO model @ processing completed successfully
+2023-09-27 15:48:02,523 INFO started collecting ads by model ADV 150
+2023-09-27 15:48:03,357 INFO model ADV 150 processing completed successfully
+2023-09-27 15:48:03,357 INFO started collecting ads by model Air Blade
+2023-09-27 15:49:51,323 INFO model Air Blade processing completed successfully
+2023-09-27 15:49:51,323 INFO started collecting ads by model Avitor
+2023-09-27 15:49:51,860 INFO model Avitor processing completed successfully
+2023-09-27 15:49:51,860 INFO started collecting ads by model Beat
+2023-09-27 15:49:52,740 INFO model Beat processing completed successfully
+2023-09-27 15:49:52,740 INFO started collecting ads by model Blade
+2023-09-27 15:49:56,349 INFO model Blade processing completed successfully
+2023-09-27 15:49:56,349 INFO started collecting ads by model CB
+2023-09-27 15:50:01,790 INFO model CB processing completed successfully
+2023-09-27 15:50:01,790 INFO started collecting ads by model CB150R
+2023-09-27 15:50:02,292 INFO the model CB150R does not contain ads
+2023-09-27 15:50:02,292 INFO started collecting ads by model CBR
+2023-09-27 15:50:08,649 INFO model CBR processing completed successfully
+2023-09-27 15:50:08,650 INFO started collecting ads by model CD
+2023-09-27 15:50:09,785 INFO model CD processing completed successfully
+2023-09-27 15:50:09,786 INFO started collecting ads by model CG125Fi
+2023-09-27 15:50:10,636 INFO model CG125Fi processing completed successfully
+2023-09-27 15:50:10,636 INFO started collecting ads by model Chaly
+2023-09-27 15:50:13,607 INFO model Chaly processing completed successfully
+2023-09-27 15:50:13,608 INFO started collecting ads by model Citi
+2023-09-27 15:50:15,338 INFO model Citi processing completed successfully
+2023-09-27 15:50:15,338 INFO started collecting ads by model Click
+2023-09-27 15:50:22,395 INFO model Click processing completed successfully
+2023-09-27 15:50:22,395 INFO started collecting ads by model Cub
+2023-09-27 15:50:37,018 INFO model Cub processing completed successfully
+2023-09-27 15:50:37,019 INFO started collecting ads by model Dream
+2023-09-27 15:50:59,257 INFO model Dream processing completed successfully
+2023-09-27 15:50:59,258 INFO started collecting ads by model Dylan
+2023-09-27 15:51:01,659 INFO model Dylan processing completed successfully
+2023-09-27 15:51:01,659 INFO started collecting ads by model Forza 300
+2023-09-27 15:51:02,220 INFO model Forza 300 processing completed successfully
+2023-09-27 15:51:02,221 INFO started collecting ads by model Future
+2023-09-27 15:51:31,637 INFO model Future processing completed successfully
+2023-09-27 15:51:31,637 INFO started collecting ads by model Giorno
+2023-09-27 15:51:32,712 INFO model Giorno processing completed successfully
+2023-09-27 15:51:32,712 INFO started collecting ads by model KPR
+2023-09-27 15:51:33,439 INFO model KPR processing completed successfully
+2023-09-27 15:51:33,439 INFO started collecting ads by model Lead
+2023-09-27 15:51:56,411 INFO model Lead processing completed successfully
+2023-09-27 15:51:56,411 INFO started collecting ads by model Monkey
+2023-09-27 15:51:56,946 INFO model Monkey processing completed successfully
+2023-09-27 15:51:56,946 INFO started collecting ads by model MSX 125
+2023-09-27 15:52:00,735 INFO model MSX 125 processing completed successfully
+2023-09-27 15:52:00,735 INFO started collecting ads by model Nova
+2023-09-27 15:52:01,804 INFO model Nova processing completed successfully
+2023-09-27 15:52:01,804 INFO started collecting ads by model PCX
+2023-09-27 15:52:09,733 INFO model PCX processing completed successfully
+2023-09-27 15:52:09,745 INFO started collecting ads by model PS
+2023-09-27 15:52:11,670 INFO model PS processing completed successfully
+2023-09-27 15:52:11,670 INFO started collecting ads by model Rebel
+2023-09-27 15:52:15,397 INFO model Rebel processing completed successfully
+2023-09-27 15:52:15,398 INFO started collecting ads by model Scoopy
+2023-09-27 15:52:19,271 INFO model Scoopy processing completed successfully
+2023-09-27 15:52:19,272 INFO started collecting ads by model SCR
+2023-09-27 15:52:20,540 INFO model SCR processing completed successfully
+2023-09-27 15:52:20,540 INFO started collecting ads by model SH
+2023-09-27 15:53:39,659 INFO model SH processing completed successfully
+2023-09-27 15:53:39,660 INFO started collecting ads by model SH Mode
+2023-09-27 15:53:53,411 INFO model SH Mode processing completed successfully
+2023-09-27 15:53:53,426 INFO started collecting ads by model Shadow
+2023-09-27 15:53:54,616 INFO model Shadow processing completed successfully
+2023-09-27 15:53:54,616 INFO started collecting ads by model Sonic
+2023-09-27 15:54:01,995 INFO model Sonic processing completed successfully
+2023-09-27 15:54:01,996 INFO started collecting ads by model Spacy
+2023-09-27 15:54:04,484 INFO model Spacy processing completed successfully
+2023-09-27 15:54:04,485 INFO started collecting ads by model Vario
+2023-09-27 15:54:30,698 INFO model Vario processing completed successfully
+2023-09-27 15:54:30,698 INFO started collecting ads by model Vision
+2023-09-27 15:55:15,859 INFO model Vision processing completed successfully
+2023-09-27 15:55:15,859 INFO started collecting ads by model Wave
+2023-09-27 15:56:36,959 INFO model Wave processing completed successfully
+2023-09-27 15:56:36,960 INFO started collecting ads by model Win
+2023-09-27 15:56:39,788 INFO model Win processing completed successfully
+2023-09-27 15:56:39,788 INFO started collecting ads by model Winner
+2023-09-27 15:56:55,476 INFO model Winner processing completed successfully
+2023-09-27 15:56:55,476 INFO started collecting ads by model Winner X
+2023-09-27 15:57:13,264 INFO model Winner X processing completed successfully
+2023-09-27 15:57:13,264 INFO started collecting ads by model X-ADV
+2023-09-27 15:57:13,785 INFO the model X-ADV does not contain ads
+2023-09-27 15:57:13,785 INFO started collecting ads by model Dòng khác
+2023-09-27 15:57:23,702 INFO model Dòng khác processing completed successfully
+2023-09-27 15:57:23,703 INFO brand Honda processing completed successfully
+2023-09-27 15:57:23,704 INFO started collecting ads by brand Yamaha
+2023-09-27 15:57:23,705 INFO started collecting ads by model Acruzo
+2023-09-27 15:57:24,779 INFO model Acruzo processing completed successfully
+2023-09-27 15:57:24,779 INFO started collecting ads by model Aerox
+2023-09-27 15:57:25,224 INFO the model Aerox does not contain ads
+2023-09-27 15:57:25,224 INFO started collecting ads by model Cuxi
+2023-09-27 15:57:27,587 INFO model Cuxi processing completed successfully
+2023-09-27 15:57:27,587 INFO started collecting ads by model Exciter
+2023-09-27 15:58:43,000 INFO model Exciter processing completed successfully
+2023-09-27 15:58:43,000 INFO started collecting ads by model Freego
+2023-09-27 15:58:44,532 INFO model Freego processing completed successfully
+2023-09-27 15:58:44,532 INFO started collecting ads by model FZ
+2023-09-27 15:58:49,553 INFO model FZ processing completed successfully
+2023-09-27 15:58:49,553 INFO started collecting ads by model Grande
+2023-09-27 15:58:54,173 INFO model Grande processing completed successfully
+2023-09-27 15:58:54,173 INFO started collecting ads by model Janus
+2023-09-27 15:59:04,104 INFO model Janus processing completed successfully
+2023-09-27 15:59:04,105 INFO started collecting ads by model Jupiter
+2023-09-27 15:59:15,693 INFO model Jupiter processing completed successfully
+2023-09-27 15:59:15,694 INFO started collecting ads by model Latte
+2023-09-27 15:59:17,049 INFO model Latte processing completed successfully
+2023-09-27 15:59:17,049 INFO started collecting ads by model Luvias
+2023-09-27 15:59:22,186 INFO model Luvias processing completed successfully
+2023-09-27 15:59:22,186 INFO started collecting ads by model Mio
+2023-09-27 15:59:31,958 INFO model Mio processing completed successfully
+2023-09-27 15:59:31,958 INFO started collecting ads by model MT
+2023-09-27 15:59:35,463 INFO model MT processing completed successfully
+2023-09-27 15:59:35,463 INFO started collecting ads by model NM-X
+2023-09-27 15:59:36,035 INFO model NM-X processing completed successfully
+2023-09-27 15:59:36,035 INFO started collecting ads by model Nouvo
+2023-09-27 15:59:53,943 INFO model Nouvo processing completed successfully
+2023-09-27 15:59:53,944 INFO started collecting ads by model Nozza
+2023-09-27 15:59:57,311 INFO model Nozza processing completed successfully
+2023-09-27 15:59:57,311 INFO started collecting ads by model Nvx
+2023-09-27 16:00:06,570 INFO model Nvx processing completed successfully
+2023-09-27 16:00:06,570 INFO started collecting ads by model R
+2023-09-27 16:00:14,052 INFO model R processing completed successfully
+2023-09-27 16:00:14,053 INFO started collecting ads by model Sirius
+2023-09-27 16:00:44,101 INFO model Sirius processing completed successfully
+2023-09-27 16:00:44,102 INFO started collecting ads by model Taurus
+2023-09-27 16:00:45,569 INFO model Taurus processing completed successfully
+2023-09-27 16:00:45,570 INFO started collecting ads by model TFX
+2023-09-27 16:00:48,104 INFO model TFX processing completed successfully
+2023-09-27 16:00:48,104 INFO started collecting ads by model Tracer
+2023-09-27 16:00:48,571 INFO model Tracer processing completed successfully
+2023-09-27 16:00:48,571 INFO started collecting ads by model XMAX
+2023-09-27 16:00:49,246 INFO model XMAX processing completed successfully
+2023-09-27 16:00:49,246 INFO started collecting ads by model Yass
+2023-09-27 16:00:50,114 INFO model Yass processing completed successfully
+2023-09-27 16:00:50,114 INFO started collecting ads by model YAZ
+2023-09-27 16:00:54,957 INFO model YAZ processing completed successfully
+2023-09-27 16:00:54,958 INFO started collecting ads by model YB125
+2023-09-27 16:00:56,366 INFO model YB125 processing completed successfully
+2023-09-27 16:00:56,366 INFO started collecting ads by model Dòng khác
+2023-09-27 16:01:01,335 INFO model Dòng khác processing completed successfully
+2023-09-27 16:01:01,335 INFO brand Yamaha processing completed successfully
+2023-09-27 16:01:01,336 INFO started collecting ads by brand Piaggio
+2023-09-27 16:01:01,337 INFO started collecting ads by model Beverly
+2023-09-27 16:01:02,172 INFO model Beverly processing completed successfully
+2023-09-27 16:01:02,172 INFO started collecting ads by model ET8
+2023-09-27 16:01:02,770 INFO model ET8 processing completed successfully
+2023-09-27 16:01:02,770 INFO started collecting ads by model Fly
+2023-09-27 16:01:04,153 INFO model Fly processing completed successfully
+2023-09-27 16:01:04,153 INFO started collecting ads by model GT
+2023-09-27 16:01:04,633 INFO model GT processing completed successfully
+2023-09-27 16:01:04,633 INFO started collecting ads by model GTS
+2023-09-27 16:01:06,671 INFO model GTS processing completed successfully
+2023-09-27 16:01:06,671 INFO started collecting ads by model Liberty
+2023-09-27 16:01:22,209 INFO model Liberty processing completed successfully
+2023-09-27 16:01:22,210 INFO started collecting ads by model LX
+2023-09-27 16:01:24,955 INFO model LX processing completed successfully
+2023-09-27 16:01:24,955 INFO started collecting ads by model Medley
+2023-09-27 16:01:26,140 INFO model Medley processing completed successfully
+2023-09-27 16:01:26,140 INFO started collecting ads by model Primavera
+2023-09-27 16:01:27,994 INFO model Primavera processing completed successfully
+2023-09-27 16:01:27,995 INFO started collecting ads by model PX
+2023-09-27 16:01:28,579 INFO model PX processing completed successfully
+2023-09-27 16:01:28,579 INFO started collecting ads by model Sprint
+2023-09-27 16:01:35,698 INFO model Sprint processing completed successfully
+2023-09-27 16:01:35,698 INFO started collecting ads by model Vespa
+2023-09-27 16:02:02,051 INFO model Vespa processing completed successfully
+2023-09-27 16:02:02,052 INFO started collecting ads by model Vespa S125
+2023-09-27 16:02:03,577 INFO model Vespa S125 processing completed successfully
+2023-09-27 16:02:03,577 INFO started collecting ads by model Zip
+2023-09-27 16:02:06,143 INFO model Zip processing completed successfully
+2023-09-27 16:02:06,143 INFO started collecting ads by model Dòng khác
+2023-09-27 16:02:07,028 INFO model Dòng khác processing completed successfully
+2023-09-27 16:02:07,028 INFO brand Piaggio processing completed successfully
+2023-09-27 16:02:07,029 INFO started collecting ads by brand Suzuki
+2023-09-27 16:02:07,030 INFO started collecting ads by model Axelo
+2023-09-27 16:02:08,629 INFO model Axelo processing completed successfully
+2023-09-27 16:02:08,629 INFO started collecting ads by model Bella
+2023-09-27 16:02:09,095 INFO model Bella processing completed successfully
+2023-09-27 16:02:09,095 INFO started collecting ads by model Best
+2023-09-27 16:02:09,570 INFO model Best processing completed successfully
+2023-09-27 16:02:09,570 INFO started collecting ads by model Crystal
+2023-09-27 16:02:10,353 INFO model Crystal processing completed successfully
+2023-09-27 16:02:10,353 INFO started collecting ads by model EN
+2023-09-27 16:02:11,421 INFO model EN processing completed successfully
+2023-09-27 16:02:11,421 INFO started collecting ads by model Epicuro
+2023-09-27 16:02:11,931 INFO model Epicuro processing completed successfully
+2023-09-27 16:02:11,931 INFO started collecting ads by model FX125
+2023-09-27 16:02:12,724 INFO model FX125 processing completed successfully
+2023-09-27 16:02:12,725 INFO started collecting ads by model GD
+2023-09-27 16:02:13,951 INFO model GD processing completed successfully
+2023-09-27 16:02:13,951 INFO started collecting ads by model GN
+2023-09-27 16:02:15,164 INFO model GN processing completed successfully
+2023-09-27 16:02:15,164 INFO started collecting ads by model GSX
+2023-09-27 16:02:18,594 INFO model GSX processing completed successfully
+2023-09-27 16:02:18,594 INFO started collecting ads by model GZ
+2023-09-27 16:02:20,984 INFO model GZ processing completed successfully
+2023-09-27 16:02:20,984 INFO started collecting ads by model Hayate
+2023-09-27 16:02:24,268 INFO model Hayate processing completed successfully
+2023-09-27 16:02:24,268 INFO started collecting ads by model Impulse
+2023-09-27 16:02:27,269 INFO model Impulse processing completed successfully
+2023-09-27 16:02:27,270 INFO started collecting ads by model Intruder
+2023-09-27 16:02:27,741 INFO the model Intruder does not contain ads
+2023-09-27 16:02:27,742 INFO started collecting ads by model Raider
+2023-09-27 16:02:34,128 INFO model Raider processing completed successfully
+2023-09-27 16:02:34,128 INFO started collecting ads by model Revo
+2023-09-27 16:02:34,901 INFO model Revo processing completed successfully
+2023-09-27 16:02:34,902 INFO started collecting ads by model Royal
+2023-09-27 16:02:35,409 INFO model Royal processing completed successfully
+2023-09-27 16:02:35,409 INFO started collecting ads by model Sapphire
+2023-09-27 16:02:35,947 INFO model Sapphire processing completed successfully
+2023-09-27 16:02:35,947 INFO started collecting ads by model Satria
+2023-09-27 16:02:45,712 INFO model Satria processing completed successfully
+2023-09-27 16:02:45,712 INFO started collecting ads by model Smash
+2023-09-27 16:02:46,813 INFO model Smash processing completed successfully
+2023-09-27 16:02:46,813 INFO started collecting ads by model Sport / Xipo
+2023-09-27 16:02:56,761 INFO model Sport / Xipo processing completed successfully
+2023-09-27 16:02:56,761 INFO started collecting ads by model Stinger
+2023-09-27 16:02:57,530 INFO model Stinger processing completed successfully
+2023-09-27 16:02:57,530 INFO started collecting ads by model V-Strom
+2023-09-27 16:02:58,006 INFO model V-Strom processing completed successfully
+2023-09-27 16:02:58,007 INFO started collecting ads by model Viva
+2023-09-27 16:02:59,598 INFO model Viva processing completed successfully
+2023-09-27 16:02:59,598 INFO started collecting ads by model Xbike
+2023-09-27 16:03:00,444 INFO model Xbike processing completed successfully
+2023-09-27 16:03:00,444 INFO started collecting ads by model Dòng khác
+2023-09-27 16:03:02,068 INFO model Dòng khác processing completed successfully
+2023-09-27 16:03:02,069 INFO brand Suzuki processing completed successfully
+2023-09-27 16:03:02,069 INFO started collecting ads by brand SYM
+2023-09-27 16:03:02,071 INFO started collecting ads by model Amigo
+2023-09-27 16:03:02,802 INFO model Amigo processing completed successfully
+2023-09-27 16:03:02,802 INFO started collecting ads by model Angela
+2023-09-27 16:03:04,431 INFO model Angela processing completed successfully
+2023-09-27 16:03:04,432 INFO started collecting ads by model Attila
+2023-09-27 16:03:12,051 INFO model Attila processing completed successfully
+2023-09-27 16:03:12,052 INFO started collecting ads by model Bonus
+2023-09-27 16:03:12,840 INFO model Bonus processing completed successfully
+2023-09-27 16:03:12,840 INFO started collecting ads by model Cello
+2023-09-27 16:03:13,420 INFO model Cello processing completed successfully
+2023-09-27 16:03:13,420 INFO started collecting ads by model Elegant
+2023-09-27 16:03:17,122 INFO model Elegant processing completed successfully
+2023-09-27 16:03:17,122 INFO started collecting ads by model Elite
+2023-09-27 16:03:18,252 INFO model Elite processing completed successfully
+2023-09-27 16:03:18,252 INFO started collecting ads by model Elizabeth
+2023-09-27 16:03:20,667 INFO model Elizabeth processing completed successfully
+2023-09-27 16:03:20,668 INFO started collecting ads by model Enjoy
+2023-09-27 16:03:21,545 INFO model Enjoy processing completed successfully
+2023-09-27 16:03:21,546 INFO started collecting ads by model EZ
+2023-09-27 16:03:22,125 INFO model EZ processing completed successfully
+2023-09-27 16:03:22,125 INFO started collecting ads by model Fiddle
+2023-09-27 16:03:22,570 INFO the model Fiddle does not contain ads
+2023-09-27 16:03:22,571 INFO started collecting ads by model Galaxy
+2023-09-27 16:03:23,807 INFO model Galaxy processing completed successfully
+2023-09-27 16:03:23,807 INFO started collecting ads by model Husky
+2023-09-27 16:03:25,300 INFO model Husky processing completed successfully
+2023-09-27 16:03:25,300 INFO started collecting ads by model Joyride
+2023-09-27 16:03:26,144 INFO model Joyride processing completed successfully
+2023-09-27 16:03:26,144 INFO started collecting ads by model Magic
+2023-09-27 16:03:26,648 INFO model Magic processing completed successfully
+2023-09-27 16:03:26,648 INFO started collecting ads by model Sanda Boss
+2023-09-27 16:03:27,256 INFO model Sanda Boss processing completed successfully
+2023-09-27 16:03:27,256 INFO started collecting ads by model Shark
+2023-09-27 16:03:29,815 INFO model Shark processing completed successfully
+2023-09-27 16:03:29,815 INFO started collecting ads by model Star
+2023-09-27 16:03:31,001 INFO model Star processing completed successfully
+2023-09-27 16:03:31,001 INFO started collecting ads by model Symphony
+2023-09-27 16:03:31,556 INFO model Symphony processing completed successfully
+2023-09-27 16:03:31,556 INFO started collecting ads by model Venus
+2023-09-27 16:03:32,340 INFO model Venus processing completed successfully
+2023-09-27 16:03:32,340 INFO started collecting ads by model Wolf
+2023-09-27 16:03:33,166 INFO model Wolf processing completed successfully
+2023-09-27 16:03:33,166 INFO started collecting ads by model Dòng khác
+2023-09-27 16:03:34,718 INFO model Dòng khác processing completed successfully
+2023-09-27 16:03:34,718 INFO brand SYM processing completed successfully
+2023-09-27 16:03:34,719 INFO started collecting ads by brand Aprilia
+2023-09-27 16:03:34,720 INFO started collecting ads by model 2015 RSV4 R APRC ABS
+2023-09-27 16:03:35,226 INFO model 2015 RSV4 R APRC ABS processing completed successfully
+2023-09-27 16:03:35,226 INFO started collecting ads by model 2015 Tuono V4 R APRC ABS
+2023-09-27 16:03:35,695 INFO the model 2015 Tuono V4 R APRC ABS does not contain ads
+2023-09-27 16:03:35,695 INFO started collecting ads by model Caponord 1200 ABS Rally
+2023-09-27 16:03:36,247 INFO the model Caponord 1200 ABS Rally does not contain ads
+2023-09-27 16:03:36,247 INFO started collecting ads by model Caponord 1200 ABS Travel Pack
+2023-09-27 16:03:36,757 INFO the model Caponord 1200 ABS Travel Pack does not contain ads
+2023-09-27 16:03:36,757 INFO started collecting ads by model Dorsoduro 750 ABS
+2023-09-27 16:03:37,268 INFO the model Dorsoduro 750 ABS does not contain ads
+2023-09-27 16:03:37,269 INFO started collecting ads by model RSV4 RF
+2023-09-27 16:03:37,784 INFO the model RSV4 RF does not contain ads
+2023-09-27 16:03:37,784 INFO started collecting ads by model RSV4 RF LE
+2023-09-27 16:03:38,293 INFO the model RSV4 RF LE does not contain ads
+2023-09-27 16:03:38,294 INFO started collecting ads by model RSV4 RR
+2023-09-27 16:03:38,805 INFO model RSV4 RR processing completed successfully
+2023-09-27 16:03:38,806 INFO started collecting ads by model Shiver 750
+2023-09-27 16:03:39,270 INFO model Shiver 750 processing completed successfully
+2023-09-27 16:03:39,271 INFO started collecting ads by model SR GT 200
+2023-09-27 16:03:39,830 INFO the model SR GT 200 does not contain ads
+2023-09-27 16:03:39,830 INFO started collecting ads by model SR MOTARD 50
+2023-09-27 16:03:40,343 INFO the model SR MOTARD 50 does not contain ads
+2023-09-27 16:03:40,344 INFO started collecting ads by model Tuono V4 1100 Factory ABS
+2023-09-27 16:03:40,856 INFO the model Tuono V4 1100 Factory ABS does not contain ads
+2023-09-27 16:03:40,857 INFO started collecting ads by model Tuono V4 1100 RR ABS
+2023-09-27 16:03:42,495 INFO the model Tuono V4 1100 RR ABS does not contain ads
+2023-09-27 16:03:42,495 INFO started collecting ads by model Dòng khác
+2023-09-27 16:03:43,031 INFO model Dòng khác processing completed successfully
+2023-09-27 16:03:43,031 INFO brand Aprilia processing completed successfully
+2023-09-27 16:03:43,032 INFO started collecting ads by brand Bazan
+2023-09-27 16:03:43,033 INFO started collecting ads by model Dream
+2023-09-27 16:03:43,566 INFO model Dream processing completed successfully
+2023-09-27 16:03:43,567 INFO started collecting ads by model Dòng khác
+2023-09-27 16:03:44,057 INFO model Dòng khác processing completed successfully
+2023-09-27 16:03:44,057 INFO brand Bazan processing completed successfully
+2023-09-27 16:03:44,058 INFO started collecting ads by brand Benelli
+2023-09-27 16:03:44,060 INFO started collecting ads by model 302R
+2023-09-27 16:03:44,570 INFO model 302R processing completed successfully
+2023-09-27 16:03:44,571 INFO started collecting ads by model BN 302
+2023-09-27 16:03:45,758 INFO model BN 302 processing completed successfully
+2023-09-27 16:03:45,758 INFO started collecting ads by model BN 600i
+2023-09-27 16:03:46,240 INFO model BN 600i processing completed successfully
+2023-09-27 16:03:46,241 INFO started collecting ads by model Caffe Nero
+2023-09-27 16:03:46,732 INFO model Caffe Nero processing completed successfully
+2023-09-27 16:03:46,732 INFO started collecting ads by model Pepe
+2023-09-27 16:03:47,191 INFO the model Pepe does not contain ads
+2023-09-27 16:03:47,191 INFO started collecting ads by model RFS
+2023-09-27 16:03:47,670 INFO the model RFS does not contain ads
+2023-09-27 16:03:47,671 INFO started collecting ads by model T15
+2023-09-27 16:03:48,135 INFO model T15 processing completed successfully
+2023-09-27 16:03:48,136 INFO started collecting ads by model TNT
+2023-09-27 16:03:49,562 INFO model TNT processing completed successfully
+2023-09-27 16:03:49,562 INFO started collecting ads by model TRK
+2023-09-27 16:03:50,090 INFO model TRK processing completed successfully
+2023-09-27 16:03:50,090 INFO started collecting ads by model VLM
+2023-09-27 16:03:50,595 INFO model VLM processing completed successfully
+2023-09-27 16:03:50,595 INFO started collecting ads by model Dòng khác
+2023-09-27 16:03:51,450 INFO model Dòng khác processing completed successfully
+2023-09-27 16:03:51,450 INFO brand Benelli processing completed successfully
+2023-09-27 16:03:51,451 INFO started collecting ads by brand BMW
+2023-09-27 16:03:51,451 INFO started collecting ads by model C400GT
+2023-09-27 16:03:51,935 INFO model C400GT processing completed successfully
+2023-09-27 16:03:51,935 INFO started collecting ads by model C400X
+2023-09-27 16:03:52,743 INFO model C400X processing completed successfully
+2023-09-27 16:03:52,743 INFO started collecting ads by model C600
+2023-09-27 16:03:53,204 INFO the model C600 does not contain ads
+2023-09-27 16:03:53,204 INFO started collecting ads by model C650
+2023-09-27 16:03:53,755 INFO the model C650 does not contain ads
+2023-09-27 16:03:53,756 INFO started collecting ads by model F800
+2023-09-27 16:03:54,270 INFO the model F800 does not contain ads
+2023-09-27 16:03:54,270 INFO started collecting ads by model F800GS
+2023-09-27 16:03:54,725 INFO the model F800GS does not contain ads
+2023-09-27 16:03:54,725 INFO started collecting ads by model R nine T
+2023-09-27 16:03:55,474 INFO model R nine T processing completed successfully
+2023-09-27 16:03:55,474 INFO started collecting ads by model R1200
+2023-09-27 16:03:56,030 INFO model R1200 processing completed successfully
+2023-09-27 16:03:56,031 INFO started collecting ads by model S1000R
+2023-09-27 16:03:57,882 INFO model S1000R processing completed successfully
+2023-09-27 16:03:57,883 INFO started collecting ads by model S1000RR
+2023-09-27 16:03:58,723 INFO model S1000RR processing completed successfully
+2023-09-27 16:03:58,723 INFO started collecting ads by model Dòng khác
+2023-09-27 16:03:59,771 INFO model Dòng khác processing completed successfully
+2023-09-27 16:03:59,771 INFO brand BMW processing completed successfully
+2023-09-27 16:03:59,772 INFO started collecting ads by brand Brixton
+2023-09-27 16:03:59,773 INFO started collecting ads by model BX 125
+2023-09-27 16:04:00,339 INFO model BX 125 processing completed successfully
+2023-09-27 16:04:00,339 INFO started collecting ads by model BX 150
+2023-09-27 16:04:01,816 INFO model BX 150 processing completed successfully
+2023-09-27 16:04:01,817 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:02,267 INFO the model Dòng khác does not contain ads
+2023-09-27 16:04:02,267 INFO brand Brixton processing completed successfully
+2023-09-27 16:04:02,268 INFO started collecting ads by brand CR&S
+2023-09-27 16:04:02,269 INFO started collecting ads by model CUU
+2023-09-27 16:04:02,766 INFO the model CUU does not contain ads
+2023-09-27 16:04:02,766 INFO started collecting ads by model VUN
+2023-09-27 16:04:03,215 INFO the model VUN does not contain ads
+2023-09-27 16:04:03,215 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:03,740 INFO the model Dòng khác does not contain ads
+2023-09-27 16:04:03,740 INFO brand CR&S processing completed successfully
+2023-09-27 16:04:03,742 INFO started collecting ads by brand Daelim
+2023-09-27 16:04:03,744 INFO started collecting ads by model A-4
+2023-09-27 16:04:04,211 INFO model A-4 processing completed successfully
+2023-09-27 16:04:04,211 INFO started collecting ads by model B-bone
+2023-09-27 16:04:04,735 INFO the model B-bone does not contain ads
+2023-09-27 16:04:04,735 INFO started collecting ads by model Besbi125
+2023-09-27 16:04:05,186 INFO model Besbi125 processing completed successfully
+2023-09-27 16:04:05,186 INFO started collecting ads by model BS
+2023-09-27 16:04:05,626 INFO the model BS does not contain ads
+2023-09-27 16:04:05,626 INFO started collecting ads by model Cub
+2023-09-27 16:04:06,693 INFO model Cub processing completed successfully
+2023-09-27 16:04:06,693 INFO started collecting ads by model DayStar125Fi
+2023-09-27 16:04:07,152 INFO model DayStar125Fi processing completed successfully
+2023-09-27 16:04:07,152 INFO started collecting ads by model E-FIVE
+2023-09-27 16:04:07,594 INFO the model E-FIVE does not contain ads
+2023-09-27 16:04:07,594 INFO started collecting ads by model NS125
+2023-09-27 16:04:08,057 INFO model NS125 processing completed successfully
+2023-09-27 16:04:08,057 INFO started collecting ads by model RoadWin125
+2023-09-27 16:04:08,532 INFO model RoadWin125 processing completed successfully
+2023-09-27 16:04:08,532 INFO started collecting ads by model S4
+2023-09-27 16:04:09,010 INFO the model S4 does not contain ads
+2023-09-27 16:04:09,010 INFO started collecting ads by model VS125
+2023-09-27 16:04:09,858 INFO model VS125 processing completed successfully
+2023-09-27 16:04:09,858 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:11,029 INFO model Dòng khác processing completed successfully
+2023-09-27 16:04:11,030 INFO brand Daelim processing completed successfully
+2023-09-27 16:04:11,031 INFO started collecting ads by brand Detech
+2023-09-27 16:04:11,032 INFO started collecting ads by model Espero
+2023-09-27 16:04:11,958 INFO model Espero processing completed successfully
+2023-09-27 16:04:11,958 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:13,359 INFO model Dòng khác processing completed successfully
+2023-09-27 16:04:13,360 INFO brand Detech processing completed successfully
+2023-09-27 16:04:13,361 INFO started collecting ads by brand Ducati
+2023-09-27 16:04:13,362 INFO started collecting ads by model 1199 panigale
+2023-09-27 16:04:13,800 INFO the model 1199 panigale does not contain ads
+2023-09-27 16:04:13,800 INFO started collecting ads by model 899 panigale
+2023-09-27 16:04:14,344 INFO model 899 panigale processing completed successfully
+2023-09-27 16:04:14,344 INFO started collecting ads by model Diavel
+2023-09-27 16:04:14,803 INFO model Diavel processing completed successfully
+2023-09-27 16:04:14,803 INFO started collecting ads by model Hypermotard
+2023-09-27 16:04:15,595 INFO model Hypermotard processing completed successfully
+2023-09-27 16:04:15,596 INFO started collecting ads by model Monster
+2023-09-27 16:04:20,677 INFO model Monster processing completed successfully
+2023-09-27 16:04:20,678 INFO started collecting ads by model Multistrada
+2023-09-27 16:04:21,141 INFO model Multistrada processing completed successfully
+2023-09-27 16:04:21,141 INFO started collecting ads by model Panigale V4
+2023-09-27 16:04:21,583 INFO the model Panigale V4 does not contain ads
+2023-09-27 16:04:21,583 INFO started collecting ads by model Scrambler
+2023-09-27 16:04:22,966 INFO model Scrambler processing completed successfully
+2023-09-27 16:04:22,966 INFO started collecting ads by model Streetfighter
+2023-09-27 16:04:23,457 INFO model Streetfighter processing completed successfully
+2023-09-27 16:04:23,458 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:24,263 INFO model Dòng khác processing completed successfully
+2023-09-27 16:04:24,264 INFO brand Ducati processing completed successfully
+2023-09-27 16:04:24,264 INFO started collecting ads by brand Euro Reibel
+2023-09-27 16:04:24,265 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:24,816 INFO model Dòng khác processing completed successfully
+2023-09-27 16:04:24,817 INFO brand Euro Reibel processing completed successfully
+2023-09-27 16:04:24,818 INFO started collecting ads by brand GPX
+2023-09-27 16:04:24,819 INFO started collecting ads by model Demon 150GN
+2023-09-27 16:04:25,547 INFO model Demon 150GN processing completed successfully
+2023-09-27 16:04:25,547 INFO started collecting ads by model Demon 150GR
+2023-09-27 16:04:26,932 INFO model Demon 150GR processing completed successfully
+2023-09-27 16:04:26,932 INFO started collecting ads by model Demon X 125cc
+2023-09-27 16:04:27,719 INFO model Demon X 125cc processing completed successfully
+2023-09-27 16:04:27,720 INFO started collecting ads by model Legend 150S
+2023-09-27 16:04:29,122 INFO model Legend 150S processing completed successfully
+2023-09-27 16:04:29,122 INFO started collecting ads by model Legend 200
+2023-09-27 16:04:30,525 INFO model Legend 200 processing completed successfully
+2023-09-27 16:04:30,526 INFO started collecting ads by model Legend Gentleman 200
+2023-09-27 16:04:31,638 INFO model Legend Gentleman 200 processing completed successfully
+2023-09-27 16:04:31,638 INFO started collecting ads by model Rock
+2023-09-27 16:04:32,174 INFO model Rock processing completed successfully
+2023-09-27 16:04:32,174 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:32,625 INFO the model Dòng khác does not contain ads
+2023-09-27 16:04:32,625 INFO brand GPX processing completed successfully
+2023-09-27 16:04:32,626 INFO started collecting ads by brand Halim
+2023-09-27 16:04:32,628 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:34,216 INFO model Dòng khác processing completed successfully
+2023-09-27 16:04:34,216 INFO brand Halim processing completed successfully
+2023-09-27 16:04:34,217 INFO started collecting ads by brand Harley Davidson
+2023-09-27 16:04:34,218 INFO started collecting ads by model 48
+2023-09-27 16:04:35,307 INFO model 48 processing completed successfully
+2023-09-27 16:04:35,307 INFO started collecting ads by model CVO
+2023-09-27 16:04:35,854 INFO model CVO processing completed successfully
+2023-09-27 16:04:35,854 INFO started collecting ads by model Dyna
+2023-09-27 16:04:36,355 INFO model Dyna processing completed successfully
+2023-09-27 16:04:36,355 INFO started collecting ads by model Fat Bob
+2023-09-27 16:04:36,827 INFO model Fat Bob processing completed successfully
+2023-09-27 16:04:36,827 INFO started collecting ads by model Fat Boy
+2023-09-27 16:04:37,294 INFO model Fat Boy processing completed successfully
+2023-09-27 16:04:37,294 INFO started collecting ads by model Low Rider
+2023-09-27 16:04:37,804 INFO model Low Rider processing completed successfully
+2023-09-27 16:04:37,804 INFO started collecting ads by model Roadster
+2023-09-27 16:04:38,307 INFO model Roadster processing completed successfully
+2023-09-27 16:04:38,307 INFO started collecting ads by model Softail
+2023-09-27 16:04:39,112 INFO model Softail processing completed successfully
+2023-09-27 16:04:39,112 INFO started collecting ads by model Softail Standard
+2023-09-27 16:04:39,646 INFO model Softail Standard processing completed successfully
+2023-09-27 16:04:39,647 INFO started collecting ads by model Sportster
+2023-09-27 16:04:40,499 INFO model Sportster processing completed successfully
+2023-09-27 16:04:40,499 INFO started collecting ads by model Street
+2023-09-27 16:04:41,072 INFO model Street processing completed successfully
+2023-09-27 16:04:41,073 INFO started collecting ads by model Superlow
+2023-09-27 16:04:41,595 INFO model Superlow processing completed successfully
+2023-09-27 16:04:41,596 INFO started collecting ads by model Touring
+2023-09-27 16:04:42,459 INFO model Touring processing completed successfully
+2023-09-27 16:04:42,459 INFO started collecting ads by model V-Rod
+2023-09-27 16:04:43,006 INFO the model V-Rod does not contain ads
+2023-09-27 16:04:43,006 INFO started collecting ads by model V-Rod Muscle
+2023-09-27 16:04:43,462 INFO the model V-Rod Muscle does not contain ads
+2023-09-27 16:04:43,462 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:44,215 INFO model Dòng khác processing completed successfully
+2023-09-27 16:04:44,215 INFO brand Harley Davidson processing completed successfully
+2023-09-27 16:04:44,216 INFO started collecting ads by brand Hyosung
+2023-09-27 16:04:44,217 INFO started collecting ads by model 125/250
+2023-09-27 16:04:44,744 INFO model 125/250 processing completed successfully
+2023-09-27 16:04:44,744 INFO started collecting ads by model Aquila
+2023-09-27 16:04:45,267 INFO model Aquila processing completed successfully
+2023-09-27 16:04:45,267 INFO started collecting ads by model Dòng khác
+2023-09-27 16:04:46,042 INFO model Dòng khác processing completed successfully
+2023-09-27 16:04:46,042 INFO started collecting ads by model GT
+2023-09-27 16:04:46,588 INFO model GT processing completed successfully
+2023-09-27 16:04:46,589 INFO started collecting ads by model GV
+2023-09-27 16:04:47,038 INFO the model GV does not contain ads
+2023-09-27 16:04:47,038 INFO started collecting ads by model ST
+2023-09-27 16:04:47,490 INFO the model ST does not contain ads
+2023-09-27 16:04:47,490 INFO brand Hyosung processing completed successfully
+2023-09-27 16:04:47,492 INFO started collecting ads by brand Kawasaki
+2023-09-27 16:04:47,494 INFO started collecting ads by model Boss
+2023-09-27 16:04:48,234 INFO model Boss processing completed successfully
+2023-09-27 16:04:48,234 INFO started collecting ads by model Estrella
+2023-09-27 16:04:48,708 INFO model Estrella processing completed successfully
+2023-09-27 16:04:48,709 INFO started collecting ads by model Kawasaki
+2023-09-27 16:04:49,853 INFO model Kawasaki processing completed successfully
+2023-09-27 16:04:49,853 INFO started collecting ads by model Kips
+2023-09-27 16:04:50,301 INFO the model Kips does not contain ads
+2023-09-27 16:04:50,302 INFO started collecting ads by model KSR
+2023-09-27 16:04:50,797 INFO model KSR processing completed successfully
+2023-09-27 16:04:50,798 INFO started collecting ads by model Leo
+2023-09-27 16:04:51,311 INFO model Leo processing completed successfully
+2023-09-27 16:04:51,311 INFO started collecting ads by model Max
+2023-09-27 16:04:52,393 INFO model Max processing completed successfully
+2023-09-27 16:04:52,394 INFO started collecting ads by model Ninja
+2023-09-27 16:04:53,931 INFO model Ninja processing completed successfully
+2023-09-27 16:04:53,932 INFO started collecting ads by model Versys
+2023-09-27 16:04:54,489 INFO model Versys processing completed successfully
+2023-09-27 16:04:54,489 INFO started collecting ads by model Vulcan
+2023-09-27 16:04:55,292 INFO model Vulcan processing completed successfully
+2023-09-27 16:04:55,292 INFO started collecting ads by model W175
+2023-09-27 16:04:56,641 INFO model W175 processing completed successfully
+2023-09-27 16:04:56,641 INFO started collecting ads by model W400
+2023-09-27 16:04:57,098 INFO the model W400 does not contain ads
+2023-09-27 16:04:57,098 INFO started collecting ads by model W650
+2023-09-27 16:04:57,556 INFO model W650 processing completed successfully
+2023-09-27 16:04:57,556 INFO started collecting ads by model W800
+2023-09-27 16:04:58,013 INFO model W800 processing completed successfully
+2023-09-27 16:04:58,013 INFO started collecting ads by model Z1000
+2023-09-27 16:04:59,658 INFO model Z1000 processing completed successfully
+2023-09-27 16:04:59,658 INFO started collecting ads by model Z125
+2023-09-27 16:05:00,226 INFO model Z125 processing completed successfully
+2023-09-27 16:05:00,226 INFO started collecting ads by model Z250
+2023-09-27 16:05:00,678 INFO the model Z250 does not contain ads
+2023-09-27 16:05:00,678 INFO started collecting ads by model Z300
+2023-09-27 16:05:01,795 INFO model Z300 processing completed successfully
+2023-09-27 16:05:01,795 INFO started collecting ads by model Z400
+2023-09-27 16:05:02,861 INFO model Z400 processing completed successfully
+2023-09-27 16:05:02,861 INFO started collecting ads by model Z650
+2023-09-27 16:05:03,618 INFO model Z650 processing completed successfully
+2023-09-27 16:05:03,618 INFO started collecting ads by model Z800
+2023-09-27 16:05:04,715 INFO model Z800 processing completed successfully
+2023-09-27 16:05:04,715 INFO started collecting ads by model Z900
+2023-09-27 16:05:06,188 INFO model Z900 processing completed successfully
+2023-09-27 16:05:06,188 INFO started collecting ads by model ZX10R
+2023-09-27 16:05:06,681 INFO model ZX10R processing completed successfully
+2023-09-27 16:05:06,681 INFO started collecting ads by model ZX6J
+2023-09-27 16:05:07,174 INFO the model ZX6J does not contain ads
+2023-09-27 16:05:07,174 INFO started collecting ads by model ZX6R
+2023-09-27 16:05:07,619 INFO model ZX6R processing completed successfully
+2023-09-27 16:05:07,619 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:08,718 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:08,719 INFO brand Kawasaki processing completed successfully
+2023-09-27 16:05:08,719 INFO started collecting ads by brand Keeway
+2023-09-27 16:05:08,720 INFO started collecting ads by model Blackster
+2023-09-27 16:05:09,336 INFO model Blackster processing completed successfully
+2023-09-27 16:05:09,336 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:09,861 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:09,861 INFO brand Keeway processing completed successfully
+2023-09-27 16:05:09,862 INFO started collecting ads by brand Kengo
+2023-09-27 16:05:09,863 INFO started collecting ads by model Classic 400
+2023-09-27 16:05:10,355 INFO model Classic 400 processing completed successfully
+2023-09-27 16:05:10,356 INFO started collecting ads by model Custom 2017
+2023-09-27 16:05:10,863 INFO the model Custom 2017 does not contain ads
+2023-09-27 16:05:10,863 INFO started collecting ads by model E-Bikes
+2023-09-27 16:05:11,375 INFO model E-Bikes processing completed successfully
+2023-09-27 16:05:11,375 INFO started collecting ads by model Off road
+2023-09-27 16:05:11,888 INFO model Off road processing completed successfully
+2023-09-27 16:05:11,888 INFO started collecting ads by model R250
+2023-09-27 16:05:12,345 INFO model R250 processing completed successfully
+2023-09-27 16:05:12,345 INFO started collecting ads by model R350
+2023-09-27 16:05:12,813 INFO model R350 processing completed successfully
+2023-09-27 16:05:12,814 INFO started collecting ads by model Scooter
+2023-09-27 16:05:13,316 INFO the model Scooter does not contain ads
+2023-09-27 16:05:13,316 INFO started collecting ads by model X350
+2023-09-27 16:05:13,830 INFO the model X350 does not contain ads
+2023-09-27 16:05:13,830 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:14,354 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:14,355 INFO brand Kengo processing completed successfully
+2023-09-27 16:05:14,356 INFO started collecting ads by brand KTM
+2023-09-27 16:05:14,357 INFO started collecting ads by model 1190 RC8R
+2023-09-27 16:05:14,853 INFO the model 1190 RC8R does not contain ads
+2023-09-27 16:05:14,853 INFO started collecting ads by model 1290 Super Adventure
+2023-09-27 16:05:15,323 INFO the model 1290 Super Adventure does not contain ads
+2023-09-27 16:05:15,323 INFO started collecting ads by model 1290 Super Duke R
+2023-09-27 16:05:15,788 INFO the model 1290 Super Duke R does not contain ads
+2023-09-27 16:05:15,788 INFO started collecting ads by model 390
+2023-09-27 16:05:16,500 INFO model 390 processing completed successfully
+2023-09-27 16:05:16,501 INFO started collecting ads by model Duke 200
+2023-09-27 16:05:17,323 INFO model Duke 200 processing completed successfully
+2023-09-27 16:05:17,324 INFO started collecting ads by model Duke 250
+2023-09-27 16:05:17,793 INFO model Duke 250 processing completed successfully
+2023-09-27 16:05:17,793 INFO started collecting ads by model Duke 390
+2023-09-27 16:05:18,524 INFO model Duke 390 processing completed successfully
+2023-09-27 16:05:18,525 INFO started collecting ads by model Duke 690
+2023-09-27 16:05:18,996 INFO model Duke 690 processing completed successfully
+2023-09-27 16:05:18,996 INFO started collecting ads by model RC 200
+2023-09-27 16:05:19,461 INFO model RC 200 processing completed successfully
+2023-09-27 16:05:19,461 INFO started collecting ads by model RC 250
+2023-09-27 16:05:19,931 INFO model RC 250 processing completed successfully
+2023-09-27 16:05:19,931 INFO started collecting ads by model RC 390
+2023-09-27 16:05:20,727 INFO model RC 390 processing completed successfully
+2023-09-27 16:05:20,727 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:21,482 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:21,482 INFO brand KTM processing completed successfully
+2023-09-27 16:05:21,483 INFO started collecting ads by brand Kymco
+2023-09-27 16:05:21,484 INFO started collecting ads by model Candy Hi
+2023-09-27 16:05:24,779 INFO model Candy Hi processing completed successfully
+2023-09-27 16:05:24,779 INFO started collecting ads by model Candy S
+2023-09-27 16:05:25,548 INFO model Candy S processing completed successfully
+2023-09-27 16:05:25,549 INFO started collecting ads by model Jockey Fi
+2023-09-27 16:05:26,350 INFO model Jockey Fi processing completed successfully
+2023-09-27 16:05:26,350 INFO started collecting ads by model K-Pipe
+2023-09-27 16:05:27,969 INFO model K-Pipe processing completed successfully
+2023-09-27 16:05:27,970 INFO started collecting ads by model Like Fi
+2023-09-27 16:05:28,824 INFO model Like Fi processing completed successfully
+2023-09-27 16:05:28,825 INFO started collecting ads by model Like MMC
+2023-09-27 16:05:29,626 INFO model Like MMC processing completed successfully
+2023-09-27 16:05:29,626 INFO started collecting ads by model Many
+2023-09-27 16:05:30,221 INFO model Many processing completed successfully
+2023-09-27 16:05:30,221 INFO started collecting ads by model Many Fi
+2023-09-27 16:05:30,723 INFO the model Many Fi does not contain ads
+2023-09-27 16:05:30,724 INFO started collecting ads by model Many Macaron Fi
+2023-09-27 16:05:31,234 INFO the model Many Macaron Fi does not contain ads
+2023-09-27 16:05:31,235 INFO started collecting ads by model Many S
+2023-09-27 16:05:31,761 INFO model Many S processing completed successfully
+2023-09-27 16:05:31,761 INFO started collecting ads by model People 16 Fi
+2023-09-27 16:05:32,552 INFO model People 16 Fi processing completed successfully
+2023-09-27 16:05:32,552 INFO started collecting ads by model People S Fi
+2023-09-27 16:05:33,090 INFO model People S Fi processing completed successfully
+2023-09-27 16:05:33,090 INFO started collecting ads by model Solona
+2023-09-27 16:05:33,595 INFO model Solona processing completed successfully
+2023-09-27 16:05:33,595 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:34,480 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:34,480 INFO brand Kymco processing completed successfully
+2023-09-27 16:05:34,481 INFO started collecting ads by brand Lambretta
+2023-09-27 16:05:34,482 INFO started collecting ads by model A
+2023-09-27 16:05:35,028 INFO the model A does not contain ads
+2023-09-27 16:05:35,028 INFO started collecting ads by model B
+2023-09-27 16:05:35,535 INFO the model B does not contain ads
+2023-09-27 16:05:35,535 INFO started collecting ads by model C
+2023-09-27 16:05:36,049 INFO the model C does not contain ads
+2023-09-27 16:05:36,049 INFO started collecting ads by model D
+2023-09-27 16:05:36,491 INFO the model D does not contain ads
+2023-09-27 16:05:36,491 INFO started collecting ads by model E
+2023-09-27 16:05:36,969 INFO the model E does not contain ads
+2023-09-27 16:05:36,969 INFO started collecting ads by model F
+2023-09-27 16:05:37,483 INFO the model F does not contain ads
+2023-09-27 16:05:37,483 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:38,016 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:38,016 INFO brand Lambretta processing completed successfully
+2023-09-27 16:05:38,017 INFO started collecting ads by brand Malaguti
+2023-09-27 16:05:38,018 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:38,506 INFO the model Dòng khác does not contain ads
+2023-09-27 16:05:38,506 INFO started collecting ads by model F12
+2023-09-27 16:05:38,960 INFO the model F12 does not contain ads
+2023-09-27 16:05:38,960 INFO started collecting ads by model Grizzly
+2023-09-27 16:05:39,530 INFO the model Grizzly does not contain ads
+2023-09-27 16:05:39,530 INFO started collecting ads by model Madison
+2023-09-27 16:05:40,042 INFO the model Madison does not contain ads
+2023-09-27 16:05:40,042 INFO brand Malaguti processing completed successfully
+2023-09-27 16:05:40,044 INFO started collecting ads by brand Moto Guzzi
+2023-09-27 16:05:40,045 INFO started collecting ads by model V7
+2023-09-27 16:05:40,554 INFO the model V7 does not contain ads
+2023-09-27 16:05:40,555 INFO started collecting ads by model V9
+2023-09-27 16:05:41,066 INFO the model V9 does not contain ads
+2023-09-27 16:05:41,066 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:41,584 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:41,584 INFO brand Moto Guzzi processing completed successfully
+2023-09-27 16:05:41,585 INFO started collecting ads by brand MV Agusta
+2023-09-27 16:05:41,587 INFO started collecting ads by model Brutale 3 Cylind
+2023-09-27 16:05:42,100 INFO the model Brutale 3 Cylind does not contain ads
+2023-09-27 16:05:42,100 INFO started collecting ads by model Brutale 4 Cylind
+2023-09-27 16:05:42,603 INFO the model Brutale 4 Cylind does not contain ads
+2023-09-27 16:05:42,603 INFO started collecting ads by model Dragster
+2023-09-27 16:05:43,355 INFO model Dragster processing completed successfully
+2023-09-27 16:05:43,355 INFO started collecting ads by model F3
+2023-09-27 16:05:43,853 INFO model F3 processing completed successfully
+2023-09-27 16:05:43,853 INFO started collecting ads by model F4
+2023-09-27 16:05:44,343 INFO the model F4 does not contain ads
+2023-09-27 16:05:44,343 INFO started collecting ads by model Rivale
+2023-09-27 16:05:44,872 INFO model Rivale processing completed successfully
+2023-09-27 16:05:44,872 INFO started collecting ads by model Stradale
+2023-09-27 16:05:45,327 INFO the model Stradale does not contain ads
+2023-09-27 16:05:45,327 INFO started collecting ads by model Turismo Veloce
+2023-09-27 16:05:45,878 INFO the model Turismo Veloce does not contain ads
+2023-09-27 16:05:45,878 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:46,751 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:46,752 INFO brand MV Agusta processing completed successfully
+2023-09-27 16:05:46,752 INFO started collecting ads by brand Nioshima
+2023-09-27 16:05:46,753 INFO started collecting ads by model Nio Fi 50cc
+2023-09-27 16:05:47,539 INFO model Nio Fi 50cc processing completed successfully
+2023-09-27 16:05:47,539 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:48,047 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:48,048 INFO brand Nioshima processing completed successfully
+2023-09-27 16:05:48,049 INFO started collecting ads by brand Norton
+2023-09-27 16:05:48,050 INFO started collecting ads by model Commandor
+2023-09-27 16:05:48,545 INFO model Commandor processing completed successfully
+2023-09-27 16:05:48,545 INFO started collecting ads by model Dominator
+2023-09-27 16:05:49,059 INFO model Dominator processing completed successfully
+2023-09-27 16:05:49,059 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:49,519 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:49,519 INFO brand Norton processing completed successfully
+2023-09-27 16:05:49,520 INFO started collecting ads by brand Peugeot
+2023-09-27 16:05:49,522 INFO started collecting ads by model 102
+2023-09-27 16:05:49,986 INFO model 102 processing completed successfully
+2023-09-27 16:05:49,986 INFO started collecting ads by model 103
+2023-09-27 16:05:50,499 INFO model 103 processing completed successfully
+2023-09-27 16:05:50,499 INFO started collecting ads by model 104
+2023-09-27 16:05:50,997 INFO the model 104 does not contain ads
+2023-09-27 16:05:50,998 INFO started collecting ads by model Citystar
+2023-09-27 16:05:51,511 INFO the model Citystar does not contain ads
+2023-09-27 16:05:51,511 INFO started collecting ads by model Django
+2023-09-27 16:05:52,618 INFO model Django processing completed successfully
+2023-09-27 16:05:52,619 INFO started collecting ads by model Satelis
+2023-09-27 16:05:53,153 INFO model Satelis processing completed successfully
+2023-09-27 16:05:53,153 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:53,603 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:53,603 INFO brand Peugeot processing completed successfully
+2023-09-27 16:05:53,604 INFO started collecting ads by brand RebelUSA
+2023-09-27 16:05:53,605 INFO started collecting ads by model CBR
+2023-09-27 16:05:54,061 INFO model CBR processing completed successfully
+2023-09-27 16:05:54,061 INFO started collecting ads by model CDR
+2023-09-27 16:05:54,556 INFO model CDR processing completed successfully
+2023-09-27 16:05:54,556 INFO started collecting ads by model Deluxe
+2023-09-27 16:05:54,989 INFO the model Deluxe does not contain ads
+2023-09-27 16:05:54,989 INFO started collecting ads by model Notus
+2023-09-27 16:05:55,525 INFO model Notus processing completed successfully
+2023-09-27 16:05:55,525 INFO started collecting ads by model Rebell
+2023-09-27 16:05:56,641 INFO model Rebell processing completed successfully
+2023-09-27 16:05:56,642 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:57,431 INFO model Dòng khác processing completed successfully
+2023-09-27 16:05:57,432 INFO brand RebelUSA processing completed successfully
+2023-09-27 16:05:57,433 INFO started collecting ads by brand Regal Raptor
+2023-09-27 16:05:57,434 INFO started collecting ads by model Bobber
+2023-09-27 16:05:57,961 INFO the model Bobber does not contain ads
+2023-09-27 16:05:57,962 INFO started collecting ads by model Cruiser
+2023-09-27 16:05:58,472 INFO the model Cruiser does not contain ads
+2023-09-27 16:05:58,472 INFO started collecting ads by model Daytona
+2023-09-27 16:05:58,985 INFO the model Daytona does not contain ads
+2023-09-27 16:05:58,985 INFO started collecting ads by model Euro Reibel
+2023-09-27 16:05:59,506 INFO model Euro Reibel processing completed successfully
+2023-09-27 16:05:59,506 INFO started collecting ads by model Dòng khác
+2023-09-27 16:05:59,953 INFO the model Dòng khác does not contain ads
+2023-09-27 16:05:59,953 INFO brand Regal Raptor processing completed successfully
+2023-09-27 16:05:59,954 INFO started collecting ads by brand Royal Enfield
+2023-09-27 16:05:59,956 INFO started collecting ads by model Bullet 500
+2023-09-27 16:06:00,623 INFO the model Bullet 500 does not contain ads
+2023-09-27 16:06:00,623 INFO started collecting ads by model Classic 500
+2023-09-27 16:06:01,476 INFO model Classic 500 processing completed successfully
+2023-09-27 16:06:01,476 INFO started collecting ads by model Continetal GT
+2023-09-27 16:06:01,959 INFO model Continetal GT processing completed successfully
+2023-09-27 16:06:01,959 INFO started collecting ads by model Himalayan
+2023-09-27 16:06:02,471 INFO model Himalayan processing completed successfully
+2023-09-27 16:06:02,471 INFO started collecting ads by model Interceptor 650
+2023-09-27 16:06:03,000 INFO model Interceptor 650 processing completed successfully
+2023-09-27 16:06:03,001 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:03,449 INFO model Dòng khác processing completed successfully
+2023-09-27 16:06:03,449 INFO brand Royal Enfield processing completed successfully
+2023-09-27 16:06:03,450 INFO started collecting ads by brand Sachs
+2023-09-27 16:06:03,452 INFO started collecting ads by model 150KN
+2023-09-27 16:06:03,901 INFO the model 150KN does not contain ads
+2023-09-27 16:06:03,901 INFO started collecting ads by model Amici
+2023-09-27 16:06:04,365 INFO model Amici processing completed successfully
+2023-09-27 16:06:04,365 INFO started collecting ads by model B-805
+2023-09-27 16:06:04,923 INFO the model B-805 does not contain ads
+2023-09-27 16:06:04,923 INFO started collecting ads by model Balboa
+2023-09-27 16:06:05,436 INFO the model Balboa does not contain ads
+2023-09-27 16:06:05,437 INFO started collecting ads by model Bee 50 and Bee 125
+2023-09-27 16:06:05,947 INFO the model Bee 50 and Bee 125 does not contain ads
+2023-09-27 16:06:05,947 INFO started collecting ads by model Big Roadster V 3
+2023-09-27 16:06:06,459 INFO the model Big Roadster V 3 does not contain ads
+2023-09-27 16:06:06,459 INFO started collecting ads by model Dirty Devil 110
+2023-09-27 16:06:06,972 INFO the model Dirty Devil 110 does not contain ads
+2023-09-27 16:06:06,973 INFO started collecting ads by model Dirty Devil 50
+2023-09-27 16:06:07,484 INFO the model Dirty Devil 50 does not contain ads
+2023-09-27 16:06:07,485 INFO started collecting ads by model Goebel
+2023-09-27 16:06:08,004 INFO model Goebel processing completed successfully
+2023-09-27 16:06:08,004 INFO started collecting ads by model Hercules 125 cc
+2023-09-27 16:06:08,498 INFO the model Hercules 125 cc does not contain ads
+2023-09-27 16:06:08,498 INFO started collecting ads by model MadAss
+2023-09-27 16:06:08,956 INFO the model MadAss does not contain ads
+2023-09-27 16:06:08,956 INFO started collecting ads by model Optima
+2023-09-27 16:06:09,422 INFO the model Optima does not contain ads
+2023-09-27 16:06:09,423 INFO started collecting ads by model Prima
+2023-09-27 16:06:09,941 INFO the model Prima does not contain ads
+2023-09-27 16:06:09,941 INFO started collecting ads by model Prima G3
+2023-09-27 16:06:10,384 INFO the model Prima G3 does not contain ads
+2023-09-27 16:06:10,384 INFO started collecting ads by model Roadster 125 V2
+2023-09-27 16:06:10,871 INFO the model Roadster 125 V2 does not contain ads
+2023-09-27 16:06:10,872 INFO started collecting ads by model Roadster 2000
+2023-09-27 16:06:11,375 INFO the model Roadster 2000 does not contain ads
+2023-09-27 16:06:11,375 INFO started collecting ads by model Roadster 650
+2023-09-27 16:06:11,887 INFO the model Roadster 650 does not contain ads
+2023-09-27 16:06:11,887 INFO started collecting ads by model Roadster 800
+2023-09-27 16:06:12,503 INFO the model Roadster 800 does not contain ads
+2023-09-27 16:06:12,503 INFO started collecting ads by model Roadster V 1
+2023-09-27 16:06:13,015 INFO the model Roadster V 1 does not contain ads
+2023-09-27 16:06:13,015 INFO started collecting ads by model Speedjet R 50 (Air cooled)
+2023-09-27 16:06:13,455 INFO the model Speedjet R 50 (Air cooled) does not contain ads
+2023-09-27 16:06:13,456 INFO started collecting ads by model Speedjet RS 50 (Liquid cooled intr
+2023-09-27 16:06:13,934 INFO the model Speedjet RS 50 (Liquid cooled intr does not contain ads
+2023-09-27 16:06:13,934 INFO started collecting ads by model SR 125
+2023-09-27 16:06:14,448 INFO the model SR 125 does not contain ads
+2023-09-27 16:06:14,448 INFO started collecting ads by model SX-1
+2023-09-27 16:06:14,959 INFO the model SX-1 does not contain ads
+2023-09-27 16:06:14,960 INFO started collecting ads by model SX-1 (Urbano Limited Edition)
+2023-09-27 16:06:15,471 INFO the model SX-1 (Urbano Limited Edition) does not contain ads
+2023-09-27 16:06:15,471 INFO started collecting ads by model VS 125
+2023-09-27 16:06:15,983 INFO the model VS 125 does not contain ads
+2023-09-27 16:06:15,983 INFO started collecting ads by model Westlake
+2023-09-27 16:06:16,434 INFO the model Westlake does not contain ads
+2023-09-27 16:06:16,434 INFO started collecting ads by model X Road
+2023-09-27 16:06:16,912 INFO the model X Road does not contain ads
+2023-09-27 16:06:16,912 INFO started collecting ads by model XTC 125
+2023-09-27 16:06:17,373 INFO the model XTC 125 does not contain ads
+2023-09-27 16:06:17,374 INFO started collecting ads by model XTC-N
+2023-09-27 16:06:17,928 INFO the model XTC-N does not contain ads
+2023-09-27 16:06:17,929 INFO started collecting ads by model XTC-R
+2023-09-27 16:06:18,441 INFO the model XTC-R does not contain ads
+2023-09-27 16:06:18,441 INFO started collecting ads by model ZX 125
+2023-09-27 16:06:18,951 INFO the model ZX 125 does not contain ads
+2023-09-27 16:06:18,951 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:19,464 INFO the model Dòng khác does not contain ads
+2023-09-27 16:06:19,464 INFO brand Sachs processing completed successfully
+2023-09-27 16:06:19,465 INFO started collecting ads by brand Sanda
+2023-09-27 16:06:19,466 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:20,369 INFO model Dòng khác processing completed successfully
+2023-09-27 16:06:20,369 INFO brand Sanda processing completed successfully
+2023-09-27 16:06:20,370 INFO started collecting ads by brand Taya
+2023-09-27 16:06:20,371 INFO started collecting ads by model Chaly
+2023-09-27 16:06:20,833 INFO the model Chaly does not contain ads
+2023-09-27 16:06:20,833 INFO started collecting ads by model City
+2023-09-27 16:06:21,316 INFO model City processing completed successfully
+2023-09-27 16:06:21,317 INFO started collecting ads by model Cub
+2023-09-27 16:06:21,855 INFO model Cub processing completed successfully
+2023-09-27 16:06:21,855 INFO started collecting ads by model Giorno
+2023-09-27 16:06:22,345 INFO model Giorno processing completed successfully
+2023-09-27 16:06:22,345 INFO started collecting ads by model Hunter City
+2023-09-27 16:06:22,854 INFO model Hunter City processing completed successfully
+2023-09-27 16:06:22,854 INFO started collecting ads by model Mini
+2023-09-27 16:06:23,367 INFO model Mini processing completed successfully
+2023-09-27 16:06:23,368 INFO started collecting ads by model Scoopy
+2023-09-27 16:06:23,837 INFO model Scoopy processing completed successfully
+2023-09-27 16:06:23,837 INFO started collecting ads by model Scooter
+2023-09-27 16:06:24,380 INFO the model Scooter does not contain ads
+2023-09-27 16:06:24,381 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:24,910 INFO model Dòng khác processing completed successfully
+2023-09-27 16:06:24,910 INFO brand Taya processing completed successfully
+2023-09-27 16:06:24,911 INFO started collecting ads by brand Triumph
+2023-09-27 16:06:24,913 INFO started collecting ads by model Street Scramber
+2023-09-27 16:06:25,423 INFO model Street Scramber processing completed successfully
+2023-09-27 16:06:25,424 INFO started collecting ads by model Street Triple
+2023-09-27 16:06:26,257 INFO model Street Triple processing completed successfully
+2023-09-27 16:06:26,258 INFO started collecting ads by model Street Twin
+2023-09-27 16:06:27,303 INFO model Street Twin processing completed successfully
+2023-09-27 16:06:27,304 INFO started collecting ads by model Triumph America
+2023-09-27 16:06:27,860 INFO the model Triumph America does not contain ads
+2023-09-27 16:06:27,860 INFO started collecting ads by model Triumph Bonneville T100
+2023-09-27 16:06:28,722 INFO model Triumph Bonneville T100 processing completed successfully
+2023-09-27 16:06:28,722 INFO started collecting ads by model Triumph Speedmaster
+2023-09-27 16:06:29,198 INFO model Triumph Speedmaster processing completed successfully
+2023-09-27 16:06:29,198 INFO started collecting ads by model Triumph Tiger Explorer XC
+2023-09-27 16:06:29,720 INFO model Triumph Tiger Explorer XC processing completed successfully
+2023-09-27 16:06:29,721 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:30,584 INFO model Dòng khác processing completed successfully
+2023-09-27 16:06:30,584 INFO brand Triumph processing completed successfully
+2023-09-27 16:06:30,585 INFO started collecting ads by brand Vento
+2023-09-27 16:06:30,586 INFO started collecting ads by model Gladiator XLS
+2023-09-27 16:06:31,036 INFO the model Gladiator XLS does not contain ads
+2023-09-27 16:06:31,036 INFO started collecting ads by model Rebellian
+2023-09-27 16:06:31,558 INFO model Rebellian processing completed successfully
+2023-09-27 16:06:31,558 INFO started collecting ads by model V Thunder XL
+2023-09-27 16:06:32,059 INFO the model V Thunder XL does not contain ads
+2023-09-27 16:06:32,059 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:32,515 INFO model Dòng khác processing completed successfully
+2023-09-27 16:06:32,515 INFO brand Vento processing completed successfully
+2023-09-27 16:06:32,516 INFO started collecting ads by brand Victory
+2023-09-27 16:06:32,518 INFO started collecting ads by model Cross Country Tours
+2023-09-27 16:06:33,084 INFO the model Cross Country Tours does not contain ads
+2023-09-27 16:06:33,085 INFO started collecting ads by model Gunner
+2023-09-27 16:06:33,595 INFO the model Gunner does not contain ads
+2023-09-27 16:06:33,595 INFO started collecting ads by model Hammer
+2023-09-27 16:06:34,108 INFO the model Hammer does not contain ads
+2023-09-27 16:06:34,108 INFO started collecting ads by model High-Ball
+2023-09-27 16:06:34,619 INFO the model High-Ball does not contain ads
+2023-09-27 16:06:34,620 INFO started collecting ads by model Magnum
+2023-09-27 16:06:35,053 INFO the model Magnum does not contain ads
+2023-09-27 16:06:35,054 INFO started collecting ads by model Vegas
+2023-09-27 16:06:35,539 INFO the model Vegas does not contain ads
+2023-09-27 16:06:35,540 INFO started collecting ads by model Vision
+2023-09-27 16:06:35,974 INFO the model Vision does not contain ads
+2023-09-27 16:06:35,974 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:36,435 INFO model Dòng khác processing completed successfully
+2023-09-27 16:06:36,435 INFO brand Victory processing completed successfully
+2023-09-27 16:06:36,436 INFO started collecting ads by brand Visitor
+2023-09-27 16:06:36,437 INFO started collecting ads by model 125 Classic
+2023-09-27 16:06:36,982 INFO model 125 Classic processing completed successfully
+2023-09-27 16:06:36,983 INFO started collecting ads by model Bios
+2023-09-27 16:06:37,503 INFO model Bios processing completed successfully
+2023-09-27 16:06:37,504 INFO started collecting ads by model helios
+2023-09-27 16:06:38,006 INFO model helios processing completed successfully
+2023-09-27 16:06:38,006 INFO started collecting ads by model Phoenix
+2023-09-27 16:06:38,879 INFO model Phoenix processing completed successfully
+2023-09-27 16:06:38,879 INFO started collecting ads by model Dòng khác
+2023-09-27 16:06:39,343 INFO model Dòng khác processing completed successfully
+2023-09-27 16:06:39,352 INFO brand Visitor processing completed successfully
+2023-09-27 16:06:39,354 INFO started collecting ads by brand Hãng khác
+2023-09-27 16:06:39,356 INFO started collecting ads by model Dòng khác
+2023-09-27 16:07:03,289 INFO model Dòng khác processing completed successfully
+2023-09-27 16:07:03,290 INFO brand Hãng khác processing completed successfully

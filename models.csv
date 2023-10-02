@@ -1,0 +1,418 @@
+id,id_brand,model_name
+1,1,67
+2,1,@
+397,1,ADV 150
+3,1,Air Blade
+334,1,Avitor
+388,1,Beat
+333,1,Blade
+4,1,CB
+427,1,CB150R
+5,1,CBR
+6,1,CD
+400,1,CG125Fi
+7,1,Chaly
+8,1,Citi
+9,1,Click
+10,1,Cub
+11,1,Dream
+12,1,Dylan
+387,1,Forza 300
+13,1,Future
+426,1,Giorno
+405,1,KPR
+14,1,Lead
+390,1,Monkey
+292,1,MSX 125
+336,1,Nova
+15,1,PCX
+16,1,PS
+17,1,Rebel
+335,1,Scoopy
+18,1,SCR
+19,1,SH
+279,1,SH Mode
+393,1,Shadow
+379,1,Sonic
+20,1,Spacy
+362,1,Vario
+21,1,Vision
+22,1,Wave
+23,1,Win
+293,1,Winner
+396,1,Winner X
+407,1,X-ADV
+24,1,Dòng khác
+351,2,Acruzo
+412,2,Aerox
+29,2,Cuxi
+25,2,Exciter
+394,2,Freego
+30,2,FZ
+280,2,Grande
+294,2,Janus
+28,2,Jupiter
+395,2,Latte
+31,2,Luvias
+32,2,Mio
+355,2,MT
+354,2,NM-X
+26,2,Nouvo
+33,2,Nozza
+370,2,Nvx
+34,2,R
+27,2,Sirius
+35,2,Taurus
+353,2,TFX
+401,2,Tracer
+406,2,XMAX
+36,2,Yass
+37,2,YAZ
+391,2,YB125
+38,2,Dòng khác
+282,3,Beverly
+88,3,ET8
+82,3,Fly
+87,3,GT
+85,3,GTS
+78,3,Liberty
+79,3,LX
+89,3,Medley
+84,3,Primavera
+90,3,PX
+83,3,Sprint
+80,3,Vespa
+86,3,Vespa S125
+81,3,Zip
+91,3,Dòng khác
+61,4,Axelo
+62,4,Bella
+63,4,Best
+64,4,Crystal
+65,4,EN
+66,4,Epicuro
+58,4,FX125
+296,4,GD
+67,4,GN
+295,4,GSX
+68,4,GZ
+57,4,Hayate
+283,4,Impulse
+402,4,Intruder
+70,4,Raider
+340,4,Revo
+72,4,Royal
+73,4,Sapphire
+60,4,Satria
+74,4,Smash
+56,4,Sport / Xipo
+75,4,Stinger
+341,4,V-Strom
+59,4,Viva
+76,4,Xbike
+77,4,Dòng khác
+348,5,Amigo
+40,5,Angela
+39,5,Attila
+41,5,Bonus
+42,5,Cello
+43,5,Elegant
+346,5,Elite
+347,5,Elizabeth
+44,5,Enjoy
+45,5,EZ
+46,5,Fiddle
+47,5,Galaxy
+69,5,Husky
+48,5,Joyride
+49,5,Magic
+50,5,Sanda Boss
+51,5,Shark
+52,5,Star
+53,5,Symphony
+286,5,Venus
+54,5,Wolf
+55,5,Dòng khác
+112,6,2015 RSV4 R APRC ABS
+113,6,2015 Tuono V4 R APRC ABS
+114,6,Caponord 1200 ABS Rally
+115,6,Caponord 1200 ABS Travel Pack
+116,6,Dorsoduro 750 ABS
+117,6,RSV4 RF
+118,6,RSV4 RF LE
+119,6,RSV4 RR
+120,6,Shiver 750
+428,6,SR GT 200
+121,6,SR MOTARD 50
+122,6,Tuono V4 1100 Factory ABS
+123,6,Tuono V4 1100 RR ABS
+124,6,Dòng khác
+125,7,Dream
+126,7,Dòng khác
+313,8,302R
+179,8,BN 302
+180,8,BN 600i
+310,8,Caffe Nero
+311,8,Pepe
+389,8,RFS
+315,8,T15
+312,8,TNT
+314,8,TRK
+316,8,VLM
+181,8,Dòng khác
+399,9,C400GT
+398,9,C400X
+318,9,C600
+319,9,C650
+320,9,F800
+183,9,F800GS
+182,9,R nine T
+317,9,R1200
+184,9,S1000R
+185,9,S1000RR
+186,9,Dòng khác
+300,35,BX 125
+301,35,BX 150
+419,35,Dòng khác
+156,10,CUU
+157,10,VUN
+158,10,Dòng khác
+193,11,A-4
+196,11,B-bone
+197,11,Besbi125
+322,11,BS
+323,11,Cub
+198,11,DayStar125Fi
+194,11,E-FIVE
+199,11,NS125
+200,11,RoadWin125
+195,11,S4
+321,11,VS125
+201,11,Dòng khác
+381,41,Espero
+422,41,Dòng khác
+159,12,1199 panigale
+160,12,899 panigale
+287,12,Diavel
+288,12,Hypermotard
+161,12,Monster
+290,12,Multistrada
+403,12,Panigale V4
+299,12,Scrambler
+291,12,Streetfighter
+162,12,Dòng khác
+277,13,Dòng khác
+364,38,Demon 150GN
+363,38,Demon 150GR
+368,38,Demon X 125cc
+366,38,Legend 150S
+367,38,Legend 200
+365,38,Legend Gentleman 200
+410,38,Rock
+411,38,Dòng khác
+276,14,Dòng khác
+417,15,48
+331,15,CVO
+328,15,Dyna
+416,15,Fat Bob
+409,15,Fat Boy
+408,15,Low Rider
+415,15,Roadster
+329,15,Softail
+414,15,Softail Standard
+327,15,Sportster
+326,15,Street
+418,15,Superlow
+332,15,Touring
+330,15,V-Rod
+177,15,V-Rod Muscle
+178,15,Dòng khác
+187,16,125/250
+188,16,Aquila
+190,16,Dòng khác
+189,16,GT
+324,16,GV
+325,16,ST
+92,17,Boss
+93,17,Estrella
+94,17,Kawasaki
+404,17,Kips
+95,17,KSR
+96,17,Leo
+97,17,Max
+98,17,Ninja
+99,17,Versys
+100,17,Vulcan
+392,17,W175
+101,17,W400
+102,17,W650
+103,17,W800
+104,17,Z1000
+338,17,Z125
+339,17,Z250
+105,17,Z300
+106,17,Z400
+298,17,Z650
+107,17,Z800
+297,17,Z900
+108,17,ZX10R
+109,17,ZX6J
+110,17,ZX6R
+111,17,Dòng khác
+191,18,Blackster
+192,18,Dòng khác
+143,19,Classic 400
+144,19,Custom 2017
+146,19,E-Bikes
+145,19,Off road
+141,19,R250
+140,19,R350
+147,19,Scooter
+142,19,X350
+148,19,Dòng khác
+164,20,1190 RC8R
+165,20,1290 Super Adventure
+166,20,1290 Super Duke R
+167,20,390
+163,20,Duke 200
+169,20,Duke 250
+170,20,Duke 390
+171,20,Duke 690
+172,20,RC 200
+173,20,RC 250
+174,20,RC 390
+175,20,Dòng khác
+127,21,Candy Hi
+128,21,Candy S
+129,21,Jockey Fi
+130,21,K-Pipe
+131,21,Like Fi
+132,21,Like MMC
+133,21,Many
+134,21,Many Fi
+135,21,Many Macaron Fi
+136,21,Many S
+137,21,People 16 Fi
+138,21,People S Fi
+337,21,Solona
+139,21,Dòng khác
+149,22,A
+150,22,B
+151,22,C
+152,22,D
+153,22,E
+154,22,F
+155,22,Dòng khác
+274,23,Dòng khác
+271,23,F12
+272,23,Grizzly
+273,23,Madison
+303,36,V7
+302,36,V9
+424,36,Dòng khác
+258,24,Brutale 3 Cylind
+257,24,Brutale 4 Cylind
+260,24,Dragster
+255,24,F3
+256,24,F4
+259,24,Rivale
+262,24,Stradale
+261,24,Turismo Veloce
+263,24,Dòng khác
+380,40,Nio Fi 50cc
+423,40,Dòng khác
+252,25,Commandor
+253,25,Dominator
+254,25,Dòng khác
+307,37,102
+308,37,103
+309,37,104
+305,37,Citystar
+304,37,Django
+306,37,Satelis
+420,37,Dòng khác
+203,26,CBR
+202,26,CDR
+204,26,Deluxe
+205,26,Notus
+206,26,Rebell
+207,26,Dòng khác
+210,27,Bobber
+209,27,Cruiser
+208,27,Daytona
+211,27,Euro Reibel
+212,27,Dòng khác
+383,42,Bullet 500
+382,42,Classic 500
+384,42,Continetal GT
+385,42,Himalayan
+386,42,Interceptor 650
+425,42,Dòng khác
+213,28,150KN
+343,28,Amici
+214,28,B-805
+215,28,Balboa
+216,28,Bee 50 and Bee 125
+217,28,Big Roadster V 3
+219,28,Dirty Devil 110
+218,28,Dirty Devil 50
+345,28,Goebel
+224,28,Hercules 125 cc
+220,28,MadAss
+344,28,Optima
+221,28,Prima
+222,28,Prima G3
+227,28,Roadster 125 V2
+228,28,Roadster 2000
+223,28,Roadster 650
+225,28,Roadster 800
+226,28,Roadster V 1
+229,28,Speedjet R 50 (Air cooled)
+230,28,Speedjet RS 50 (Liquid cooled intr
+231,28,SR 125
+232,28,SX-1
+233,28,SX-1 (Urbano Limited Edition)
+234,28,VS 125
+235,28,Westlake
+236,28,X Road
+237,28,XTC 125
+238,28,XTC-N
+239,28,XTC-R
+240,28,ZX 125
+241,28,Dòng khác
+278,29,Dòng khác
+372,39,Chaly
+373,39,City
+371,39,Cub
+377,39,Giorno
+378,39,Hunter City
+374,39,Mini
+375,39,Scoopy
+376,39,Scooter
+421,39,Dòng khác
+350,30,Street Scramber
+413,30,Street Triple
+349,30,Street Twin
+245,30,Triumph America
+242,30,Triumph Bonneville T100
+246,30,Triumph Speedmaster
+244,30,Triumph Tiger Explorer XC
+247,30,Dòng khác
+249,31,Gladiator XLS
+250,31,Rebellian
+248,31,V Thunder XL
+251,31,Dòng khác
+264,32,Cross Country Tours
+265,32,Gunner
+359,32,Hammer
+358,32,High-Ball
+361,32,Magnum
+357,32,Vegas
+360,32,Vision
+266,32,Dòng khác
+267,33,125 Classic
+356,33,Bios
+268,33,helios
+269,33,Phoenix
+270,33,Dòng khác
+275,34,Dòng khác
